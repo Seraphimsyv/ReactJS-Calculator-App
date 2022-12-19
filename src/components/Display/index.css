@@ -1,0 +1,13 @@
+.display {
+  min-height: 250px;
+  max-height: 250px;
+  color: beige;
+  background: rgb(40, 40, 75);
+  margin: auto;
+  margin-bottom: .5em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  border-radius: 15px;
+}

@@ -1,0 +1,11 @@
+.keyboard {
+  margin: auto;
+  display: flex!important;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.MuiButton-root {
+  margin: 1em;
+  flex-basis: 23.2%;
+}
